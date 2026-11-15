@@ -18,7 +18,7 @@
     "prettier-plugin-go-template": "^0.0.15",
     "stylelint": "^18.0.0",
     "stylelint-config-standard-scss": "^18.0.0",
-    "typescript": "^7.0.0"
+    "typescript": "^5.9.3"
   },
   "scripts": {
     "lint": "npm run stylelint",
